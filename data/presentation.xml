@@ -1,0 +1,862 @@
+<?xml version="1.0"?>
+<presentation title="Bai giang  MRVT Du lịch-Thám hiểm MOI 3" width="960.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="44.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2013" type="compound" hasExternalAudio="0" uid="{FC2D8DB5-62AB-45CF-A5E8-7CC39BDAA61C}">
+	<presenters>
+		<presenter name="Luyện từ và câu lớp 4" title="Mở rộng vốn từ &quot;Du lịch, thám hiểm&quot;" email="ngagvht@gmail.com" web="http://thcaovien1.thanhoai.edu.vn/" phone="" photoAssetId="imgAsset0">
+			<bio>Thanh Cao - Thanh Oa i- Hà Nội</bio>
+			<company logoAssetId="imgAsset1" webSite="http://thcaovien1.thanhoai.edu.vn" webSiteTarget="_blank"/>
+		</presenter>
+	</presenters>
+	<company logoAssetId="" webSite="" webSiteTarget="_blank"/>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="867937" duration="108487"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="408182" duration="34011"/>
+		<soundAsset id="sndAsset2" src="sound3.mp3" embedded="0" size="435454" duration="36284"/>
+		<soundAsset id="sndAsset3" src="sound4.mp3" embedded="0" size="224489" duration="18704"/>
+		<soundAsset id="sndAsset4" src="sound5.mp3" embedded="0" size="158034" duration="13166"/>
+		<soundAsset id="sndAsset5" src="sound6.mp3" embedded="0" size="150824" duration="12565"/>
+		<soundAsset id="sndAsset6" src="sound7.mp3" embedded="0" size="318843" duration="26567"/>
+		<soundAsset id="sndAsset7" src="sound8.mp3" embedded="0" size="472130" duration="39340"/>
+		<soundAsset id="sndAsset8" src="sound9.mp3" embedded="0" size="376522" duration="31373"/>
+		<soundAsset id="sndAsset9" src="sound10.mp3" embedded="0" size="365550" duration="30459"/>
+		<soundAsset id="sndAsset10" src="sound11.mp3" embedded="0" size="171513" duration="14289"/>
+		<soundAsset id="sndAsset11" src="sound12.mp3" embedded="0" size="93459" duration="7784"/>
+		<soundAsset id="sndAsset12" src="sound13.mp3" embedded="0" size="169318" duration="14106"/>
+		<soundAsset id="sndAsset13" src="sound14.mp3" embedded="0" size="664287" duration="55353"/>
+		<soundAsset id="sndAsset14" src="sound15.mp3" embedded="0" size="907225" duration="75598"/>
+		<soundAsset id="sndAsset15" src="sound16.mp3" embedded="0" size="221668" duration="18469"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="photo1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="logo1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset23" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset24" src="thmb23.swf" embedded="0"/>
+		<graphicAsset id="imgAsset25" src="thmb24.swf" embedded="0"/>
+		<graphicAsset id="imgAsset26" src="thmb25.swf" embedded="0"/>
+		<graphicAsset id="imgAsset27" src="thmb26.swf" embedded="0"/>
+		<graphicAsset id="imgAsset28" src="thmb27.swf" embedded="0"/>
+		<graphicAsset id="imgAsset29" src="thmb28.swf" embedded="0"/>
+	</graphicAssets>
+	<playlists/>
+	<narration>
+		<audioTracks>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset0">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="108.4219971"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset1">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="3" timeOffset="11.4660008"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset2">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="4" timeOffset="5.1379995"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset3">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="5" timeOffset="3.6630002"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset4">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="13.1280000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset5">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="3" timeOffset="3.2640002"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset6">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="26.5370000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset7">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="4" timeOffset="10.1560003"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset8">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="3" timeOffset="6.4899999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset9">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="30.4080000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset10">
+				<startTimestamp slideIndex="17" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="17" stepIndex="0" timeOffset="14.2620000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset11">
+				<startTimestamp slideIndex="19" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="19" stepIndex="0" timeOffset="7.7540000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset12">
+				<startTimestamp slideIndex="21" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="21" stepIndex="1" timeOffset="7.1410000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset13">
+				<startTimestamp slideIndex="25" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="25" stepIndex="10" timeOffset="16.6679999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset14">
+				<startTimestamp slideIndex="26" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="26" stepIndex="0" timeOffset="75.5479965"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset15">
+				<startTimestamp slideIndex="27" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="27" stepIndex="0" timeOffset="18.4310000"/>
+			</audioTrack>
+		</audioTracks>
+		<videoTracks>
+			<videoTrack volume="1.0000000" src="ispring.resources_25b6f105400.spr0_138602015" width="720" height="540">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="1" timeOffset="2.3080009"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_25b6f106780.spr0_138603390" width="960" height="540">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="68.2979965"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_25b6f1065e0.spr0_138604046" width="960" height="540">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="12.4200001"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_25b6f106780.spr0_138605359" width="640" height="352">
+				<startTimestamp slideIndex="18" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="18" stepIndex="0" timeOffset="78.2500000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_25b6f106780.spr0_138606484" width="720" height="540">
+				<startTimestamp slideIndex="20" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="20" stepIndex="0" timeOffset="42.0960000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_25b6f1065e0.spr0_138607421" width="720" height="540">
+				<startTimestamp slideIndex="23" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="23" stepIndex="4" timeOffset="15.5029999"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_25b6f106ed0.spr0_138608953" width="640" height="360">
+				<startTimestamp slideIndex="24" stepIndex="0" timeOffset="0.0010000"/>
+				<endTimestamp slideIndex="24" stepIndex="0" timeOffset="357.6850000"/>
+			</videoTrack>
+		</videoTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<currentTemplate baseId="CORPORATE_TRAINING"/>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#8A00AD</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#8D7100</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#CC05FF</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#F00B00</color>
+				<color id="panel.background">#29D2DB</color>
+				<color id="panel.text">#000000</color>
+				<color id="player.background">#4A7316</color>
+				<color id="popup.background">#FFEDA4</color>
+				<color id="progress.background">#000000</color>
+				<color id="progress.loading">#B6CAE7</color>
+				<color id="progress.playback">#6FAD21</color>
+				<color id="text">#000000</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>true</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="true"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>false</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>true</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>true</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="never"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="Trang bìa" titleNormalized="trang bìa" src="slide1.swf" size="121706" advanceOnTime="1" framesCount="361" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="RandomBarsVertical" duration="0.5000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="360" playTime="15.0000000" pauseTime="93.4219971"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Bài: Mở rộng vốn từ: DU LỊCH-THÁM HIỂM
+Trang bìa
+BỘ GIÁO DỤC VÀ ĐÀO TẠO QUỸ LAWRENCE S.TING
+ Cuộc thi Thiết kế bài giảng E-Learning
+ LUYỆN TỪ VÀ CÂU
+LỚP 4
+Tác giả: Đỗ Thị Hằng Nga
+ Email: ngagvht@gmail.com SĐT:01226322799
+ Trường Tiểu học Cao Viên I-Thanh Oai-Hà Nội
+Tháng 1/2018</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="MaximizedVideo"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="1" title="Giới thiệu bài" titleNormalized="giới thiệu bài" src="slide2.swf" size="237258" advanceOnTime="1" framesCount="14" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="26.6429991"/>
+				<step start="1" end="13" playTime="0.5000000" pauseTime="2.2580013"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>MỞ RỘNG VỐN TỪ: DU LỊCH - THÁM HIỂM</text>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="2" title="Mục tiêu bài học" titleNormalized="mục tiêu bài học" src="slide3.swf" size="147557" advanceOnTime="1" framesCount="52" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.1300000"/>
+				<step start="1" end="13" playTime="0.5000000" pauseTime="8.7629995"/>
+				<step start="14" end="26" playTime="0.5000000" pauseTime="8.6239996"/>
+				<step start="27" end="51" playTime="1.0000000" pauseTime="10.8580003"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>MỤC TIÊU BÀI HỌC
+Mở rộng vốn từ: DU LỊCH-THÁM HIỂM
+
+1. Kiến thức: Học sinh biết mở rộng, hệ thống hóa được vốn từ thuộc chủ điểm “Du lịch-Thám hiểm”, biết một số tên sông,tên địa danh. 
+
+2. Kỹ năng: Học sinh biết dùng từ đặt câu theo chủ đề, phản ứng nhanh khi làm bài tập và chơi trò chơi, phát triển ngôn ngữ, khả năng giao tiếp. 
+
+3. Phẩm chất: Học sinh ham học hỏi, thích tìm hiểu, biết bảo vệ môi trường, có ý thức bảo vệ cho bản thân những kỹ năng cần thiết tối thiểu khi đi du lịch, thám hiểm.</text>
+		</slide>
+		<slide index="3" title="Tiến trình bài học" titleNormalized="tiến trình bài học" src="slide4.swf" size="131666" advanceOnTime="1" framesCount="101" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="2.4020001"/>
+				<step start="1" end="13" playTime="0.5000000" pauseTime="10.6840000"/>
+				<step start="14" end="26" playTime="0.5000000" pauseTime="8.8280001"/>
+				<step start="27" end="75" playTime="2.0000000" pauseTime="6.1870003"/>
+				<step start="76" end="100" playTime="1.0000000" pauseTime="7.9459999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>TIẾN TRÌNH CỦA BÀI HỌC
+I. Mở rộng vốn từ: 
+“Du lịch”
+1. MRVT thuộc chủ đề du lịch
+2. Bài tập mở rộng, củng cố vốn từ
+II. Mở rộng vốn từ: 
+“Thám hiểm”
+1. MRVT thuộc chủ đề thám hiểm
+2. Bài tập mở rộng, củng cố vốn từ
+III. Trò chơi
+“Du lịch trên sông”
+1. Giải đáp câu đố</text>
+		</slide>
+		<slide index="4" title="Những lưu ý giúp các em học bài." titleNormalized="những lưu ý giúp các em học bài." src="slide5.swf" size="69907" advanceOnTime="1" framesCount="54" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.3540000"/>
+				<step start="1" end="13" playTime="0.5000000" pauseTime="1.1840000"/>
+				<step start="14" end="26" playTime="0.5000000" pauseTime="5.2189999"/>
+				<step start="27" end="39" playTime="0.5000000" pauseTime="2.4380000"/>
+				<step start="40" end="40" playTime="0.0010000" pauseTime="3.3120000"/>
+				<step start="41" end="53" playTime="0.5000000" pauseTime="4.4870005"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>NHỮNG LƯU Ý GIÚP CÁC EM HỌC BÀI TỐT
+1. Các em nghe cô hướng dẫn, sau đó thực hiện các nhiệm vụ mà cô giao. Em tự làm bài tập.
+2. Các em có thể đọc sách để tham khảo.
+3. Em có thể trao đổi, chia sẻ bài học với người khác. 
+4. Học xong em biết vận dụng bài học vào cuộc sống.
+Mở rộng vốn từ: DU LỊCH-THÁM HIỂM</text>
+		</slide>
+		<slide index="5" title="Mở rộng vốn từ &quot;Thám hiểm&quot;" titleNormalized="mở rộng vốn từ &quot;thám hiểm&quot;" src="slide6.swf" size="43166" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="14.8390002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Mở rộng vốn từ: DU LỊCH-THÁM HIỂM
+Mở rộng vốn từ 
+ “Du lịch”
+Mở rộng vốn từ thuộc chủ điểm 
+“Du lịch”.
+Em hãy quan sát nơi đến và hoạt động của con người có trong ảnh!</text>
+		</slide>
+		<slide index="6" title="Phim những cảnh đẹp ở Việt nam." titleNormalized="phim những cảnh đẹp ở việt nam." src="slide7.swf" size="865" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="68.2969965"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="MaximizedVideo"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<quiz index="7" title="Bài tập MRVT &quot;Du lịch&quot;" titleNormalized="bài tập mrvt &quot;du lịch&quot;" src="quiz1.swf" size="3462054" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" thumbnailAssetId="imgAsset9" presenterIndex="0" embedded="0">
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="12.4190001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<quizBranching allowQuizInterruption="1" restartFailedQuiz="0" allowViewNextSlides="atAnyTime">
+				<finishAction>
+					<passed>
+						<gotoNextSlide/>
+					</passed>
+					<failed>
+						<gotoNextSlide/>
+					</failed>
+				</finishAction>
+			</quizBranching>
+		</quiz>
+		<quiz index="8" title="Chuyển ý" titleNormalized="chuyển ý" src="quiz2.swf" size="2303894" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" thumbnailAssetId="imgAsset10" presenterIndex="0" embedded="0">
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<quizBranching allowQuizInterruption="1" restartFailedQuiz="0" allowViewNextSlides="atAnyTime">
+				<finishAction>
+					<passed>
+						<gotoNextSlide/>
+					</passed>
+					<failed>
+						<gotoNextSlide/>
+					</failed>
+				</finishAction>
+			</quizBranching>
+		</quiz>
+		<quiz index="9" title="Bài tập củng cố MRVT &quot;Du lịch&quot;" titleNormalized="bài tập củng cố mrvt &quot;du lịch&quot;" src="quiz3.swf" size="1692420" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" thumbnailAssetId="imgAsset11" presenterIndex="0" embedded="0">
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<quizBranching allowQuizInterruption="1" restartFailedQuiz="0" allowViewNextSlides="atAnyTime">
+				<finishAction>
+					<passed>
+						<gotoNextSlide/>
+					</passed>
+					<failed>
+						<gotoNextSlide/>
+					</failed>
+				</finishAction>
+			</quizBranching>
+		</quiz>
+		<slide index="10" title="Mở rộng vốn từ &quot;Thám hiểm&quot;" titleNormalized="mở rộng vốn từ &quot;thám hiểm&quot;" src="slide11.swf" size="3552" advanceOnTime="1" framesCount="52" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+				<step start="1" end="13" playTime="0.5000000" pauseTime="6.0879998"/>
+				<step start="14" end="38" playTime="1.0000000" pauseTime="1.6719999"/>
+				<step start="39" end="51" playTime="0.5000000" pauseTime="5.5030002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Mở rộng vốn từ: DU LỊCH-THÁM HIỂM
+Mở rộng vốn từ 
+ “Du lịch”
+1. Mở rộng vốn từ thuộc chủ điểm 
+“Du lịch”.
+Em hãy quan sát tranh và ghi nhớ hoạt động của con người có trong tranh!
+2. Bài tập củng cố, mở rộng vốn từ
+II. Mở rộng vốn từ “Thám hiểm”
+1. Mở rộng vốn từ thuộc chủ điểm 
+“Thám hiểm”.</text>
+		</slide>
+		<slide index="11" title="Quan sát tranh" titleNormalized="quan sát tranh" src="slide12.swf" size="281905" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="26.5360007"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<quiz index="12" title="Bài tập MRVT &quot;Thám hiểm&quot;" titleNormalized="bài tập mrvt &quot;thám hiểm&quot;" src="quiz4.swf" size="3110658" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" thumbnailAssetId="imgAsset14" presenterIndex="0" embedded="0">
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<quizBranching allowQuizInterruption="1" restartFailedQuiz="0" allowViewNextSlides="atAnyTime">
+				<finishAction>
+					<passed>
+						<gotoNextSlide/>
+					</passed>
+					<failed>
+						<gotoNextSlide/>
+					</failed>
+				</finishAction>
+			</quizBranching>
+		</quiz>
+		<slide index="13" title="Chuyển ý" titleNormalized="chuyển ý" src="slide14.swf" size="296544" advanceOnTime="1" framesCount="29" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="2.9320001"/>
+				<step start="1" end="1" playTime="0.0010000" pauseTime="0.8600000"/>
+				<step start="2" end="2" playTime="0.0010000" pauseTime="1.6380001"/>
+				<step start="3" end="15" playTime="0.5000000" pauseTime="23.2229996"/>
+				<step start="16" end="28" playTime="0.5000000" pauseTime="9.6560006"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Leo núi
+Nghiên cứu vũ trụ
+Khám phá Bắc Cực
+Thám hiểm đại dương</text>
+		</slide>
+		<quiz index="14" title="Bài tập củng cố MRVT &quot;Thám hiểm&quot;" titleNormalized="bài tập củng cố mrvt &quot;thám hiểm&quot;" src="quiz5.swf" size="3058597" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" thumbnailAssetId="imgAsset16" presenterIndex="0" embedded="0">
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<quizBranching allowQuizInterruption="1" restartFailedQuiz="0" allowViewNextSlides="atAnyTime">
+				<finishAction>
+					<passed>
+						<gotoNextSlide/>
+					</passed>
+					<failed>
+						<gotoNextSlide/>
+					</failed>
+				</finishAction>
+			</quizBranching>
+		</quiz>
+		<slide index="15" title="Giới thiệu 2 nhà thám hiểm trên thế giới." titleNormalized="giới thiệu 2 nhà thám hiểm trên thế giới." src="slide16.swf" size="109165" advanceOnTime="1" framesCount="64" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="11.4620003"/>
+				<step start="1" end="1" playTime="0.0010000" pauseTime="4.3639998"/>
+				<step start="2" end="14" playTime="0.5000000" pauseTime="8.5260000"/>
+				<step start="15" end="63" playTime="2.0000000" pauseTime="6.9620018"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Cô-lôm -bô
+Ma-gie-lăng 
+Nhà thám hiểm</text>
+		</slide>
+		<slide index="16" title="Giới thiệu nhà thám hiểm ở Việt Nam" titleNormalized="giới thiệu nhà thám hiểm ở việt nam" src="slide17.swf" size="131939" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="33.1669993"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Việt Nam thám hiểm 
+Nam Cực
+Anh hùng 
+Phạm Tuân</text>
+		</slide>
+		<slide index="17" title="Quan sát tranh" titleNormalized="quan sát tranh" src="slide18.swf" size="143532" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="17.3030009"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="18" title="Phim nhà leo núi." titleNormalized="phim nhà leo núi." src="slide19.swf" size="864" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset20" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="78.2490000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="MaximizedVideo"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<quiz index="19" title="Chuyển ý" titleNormalized="chuyển ý" src="quiz6.swf" size="1433246" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" thumbnailAssetId="imgAsset21" presenterIndex="0" embedded="0">
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="7.7530002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<quizBranching allowQuizInterruption="1" restartFailedQuiz="0" allowViewNextSlides="atAnyTime">
+				<finishAction>
+					<passed>
+						<gotoNextSlide/>
+					</passed>
+					<failed>
+						<gotoNextSlide/>
+					</failed>
+				</finishAction>
+			</quizBranching>
+		</quiz>
+		<slide index="20" title="Giới thiệu câu thành ngữ." titleNormalized="giới thiệu câu thành ngữ." src="slide21.swf" size="122145" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset22" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="42.0950007"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="21" title="Chuyển ý" titleNormalized="chuyển ý" src="slide22.swf" size="263132" advanceOnTime="1" framesCount="62" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset23" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="12" playTime="0.5000000" pauseTime="6.4140000"/>
+				<step start="13" end="61" playTime="2.0000000" pauseTime="7.3339992"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Mở rộng vốn từ: DU LỊCH-THÁM HIỂM
+I. Mở rộng vốn từ 
+ “Du lịch”
+1. Mở rộng vốn từ thuộc chủ điểm 
+“Du lịch”.
+2. Bài tập củng cố, mở rộng vốn từ
+II. Mở rộng vốn từ “Thám hiểm”
+1. Mở rộng vốn từ thuộc chủ điểm 
+“Thám hiểm”.
+2. Bài tập củng cố, mở rộng vốn từ
+III. Trò chơi 
+“Du lịch trên sông”
+DU LỊCH TRÊN SÔNG</text>
+		</slide>
+		<quiz index="22" title="Trò chơi Du lịch trên sông" titleNormalized="trò chơi du lịch trên sông" src="quiz7.swf" size="3887579" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" thumbnailAssetId="imgAsset24" presenterIndex="0" embedded="0">
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="3.4539999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<quizBranching allowQuizInterruption="1" restartFailedQuiz="0" allowViewNextSlides="atAnyTime">
+				<finishAction>
+					<passed>
+						<gotoNextSlide/>
+					</passed>
+					<failed>
+						<gotoNextSlide/>
+					</failed>
+				</finishAction>
+			</quizBranching>
+		</quiz>
+		<slide index="23" title="Giới thiệu một số con sông" titleNormalized="giới thiệu một số con sông" src="slide24.swf" size="223113" advanceOnTime="1" framesCount="41" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset25" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="12.1119999"/>
+				<step start="1" end="1" playTime="0.0010000" pauseTime="2.2080001"/>
+				<step start="2" end="14" playTime="0.5000000" pauseTime="2.1570001"/>
+				<step start="15" end="27" playTime="0.5000000" pauseTime="4.8420000"/>
+				<step start="28" end="40" playTime="0.5000000" pauseTime="15.0030012"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="Full"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="24" title="Phim giới thệu cảnh đẹp Hà Nội" titleNormalized="phim giới thệu cảnh đẹp hà nội" src="slide25.swf" size="864" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset26" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="261.3079905"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<metaCommands>
+				<command name="changeLayout">
+					<param name="type" value="MaximizedVideo"/>
+				</command>
+			</metaCommands>
+		</slide>
+		<slide index="25" title="Củng cố." titleNormalized="củng cố." src="slide26.swf" size="10792" advanceOnTime="1" framesCount="95" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset27" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="2.2150001"/>
+				<step start="1" end="1" playTime="0.0010000" pauseTime="3.2660000"/>
+				<step start="2" end="2" playTime="0.0010000" pauseTime="2.7650000"/>
+				<step start="3" end="15" playTime="0.5000000" pauseTime="1.0599999"/>
+				<step start="16" end="64" playTime="2.0000000" pauseTime="1.4560001"/>
+				<step start="65" end="65" playTime="0.0010000" pauseTime="2.5940000"/>
+				<step start="66" end="66" playTime="0.0010000" pauseTime="0.7040000"/>
+				<step start="67" end="79" playTime="0.5000000" pauseTime="14.0229998"/>
+				<step start="80" end="80" playTime="0.0010000" pauseTime="2.6870000"/>
+				<step start="81" end="81" playTime="0.0010000" pauseTime="4.8749999"/>
+				<step start="82" end="94" playTime="0.5000000" pauseTime="16.1679999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>I. Mở rộng vốn từ: 
+“Du lịch”
+Du lịch là đi chơi xa để nghỉ ngơi, ngắm cảnh.
+II. Mở rộng vốn từ: 
+“Thám hiểm”
+
+Thám hiểm là thăm dò, tìm hiểu những nơi xa lạ khó khăn nguy hiểm.
+
+III. Trò chơi
+“Du lịch trên sông”
+Mỗi một con sông có một đặc điểm riêng mang dấu ấn lịch sử dân tộc.
+Mở rộng vốn từ: DU LỊCH-THÁM HIỂM</text>
+		</slide>
+		<slide index="26" title="Kết thúc bài học." titleNormalized="kết thúc bài học." src="slide27.swf" size="155546" advanceOnTime="1" framesCount="25" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset28" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="24" playTime="1.0000000" pauseTime="74.5479965"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Bài học kết thúc Cảm ơn các em đã tham gia tiết học.</text>
+		</slide>
+		<slide index="27" title="Tài liệu tham khảo." titleNormalized="tài liệu tham khảo." src="slide28.swf" size="67756" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset29" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="223.3980021"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Tài liệu tham khảo Tư liệu, từ điển, SGK, chuẩn KTKN phân môn Tiếng việt lớp 4. Tư liệu ảnh, video sưu tầm trên mạng internet/ Một số tài liệu khác. Phần mềm sử dụng Phần mềm Ispring suite 8 Total Video Converter Trực tuyến video cắt</text>
+		</slide>
+	</slides>
+</presentation>
